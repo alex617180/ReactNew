@@ -1,2 +1,0 @@
-# ReactNew
-Created with CodeSandbox
